@@ -1,11 +1,11 @@
-# 📊 Social Media Analytics Project
+# Social Media Analytics Project
 
 ## Project Overview
 This project analyzes social media data to understand **content performance, user behavior, engagement trends, and sentiment impact**.  
 Using Python data analysis and visualization libraries, we extract meaningful insights that can help improve content strategy and audience engagement.
 
 ---
-## 📂 Dataset Description
+## Dataset Description
 The dataset contains information related to:
 - User demographics (age, gender, country)
 - Post details (post type, category, sentiment)
@@ -16,7 +16,7 @@ The dataset contains information related to:
 
 ---
 
-## 📈 Visualizations Performed
+## Visualizations Performed
 - Pie Chart – Gender distribution  
 - Histogram – Age distribution  
 - Box Plot – Engagement rate distribution  
